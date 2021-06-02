@@ -12,6 +12,8 @@ Então execute no raiz
 
 compsoer install
 
+Já pode chamar pelo navegador para visualizar os exemplos disponíveis.
+
 ## About KoolReport
 
 KoolReport is an intuitive and flexible Open-Source PHP Reporting Framework for faster and easier report delivery. It gives you full control of data process as well as data visualization. It is fast, simple and can be extended in many ways.
