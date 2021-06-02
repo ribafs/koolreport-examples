@@ -2,6 +2,16 @@
 
 These examples demonstrate the usage of KoolReport Framework and its extended packages.
 
+- Descompacte no diretório web
+- Mude o arquivo loadkoolreport.php assim:
+```
+//require_once dirname(__FILE__)."/../koolreport/core/autoload.php";
+require_once dirname(__FILE__)."/vendor/autoload.php";
+```
+Então execute no raiz
+
+compsoer install
+
 ## About KoolReport
 
 KoolReport is an intuitive and flexible Open-Source PHP Reporting Framework for faster and easier report delivery. It gives you full control of data process as well as data visualization. It is fast, simple and can be extended in many ways.
